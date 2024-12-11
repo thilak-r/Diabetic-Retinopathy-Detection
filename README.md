@@ -64,7 +64,7 @@ This project is an advanced AI-based system to detect and classify the stages of
 1. Clone the repository:
    ```bash
    git clone https://github.com/thilak-r/Diabetic-Retinopathy-Detection.git
-   cd liver-fibrosis-detection
+   cd Diabetic-Retinopathy-Detection
 
 2. Install Dependencies: 
 Run the following command to install all required dependencies:
@@ -99,7 +99,7 @@ Monitoring disease progression and treatment efficacy in diabetic patients, ensu
 ---
 
 ### 🙌 **Contributors**
-#### Thilak R (https://github.com/thilak-r) <br>
+#### [Thilak R](https://github.com/thilak-r) <br>
 #### under guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu) <br>
 ---
 
