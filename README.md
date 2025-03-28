@@ -4,6 +4,17 @@
 Diabetic Retinopathy (DR) is one of the leading causes of blindness in adults worldwide, caused by prolonged high blood sugar levels that damage the retina. Early detection and classification of DR stages are critical for preventing vision loss and ensuring timely treatment.
 
 ---
+--
+⭐ If you like this project, don't forget to give it a star on GitHub!  
+
+---
+<a href="https://github.com/thilak-r/liver-fabrosis-detection/blob/main/Original-ResNet-18-Architecture.png">
+  <img src="https://raw.githubusercontent.com/thilak-r/liver-fabrosis-detection/main/Original-ResNet-18-Architecture.png" 
+       alt="Original ResNet-18 Architecture" 
+       style="max-width: 100%; height: auto; display: block; margin: auto;">
+</a>
+
+---
 
 ## 🚀 **Project Overview**
 This project is an advanced AI-based system to detect and classify the stages of diabetic retinopathy from retinal images. Using a pretrained **ResNet-18** model, the system is fine-tuned for accurate classification and evaluation of DR stages.
