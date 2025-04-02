@@ -106,11 +106,7 @@ Non-invasive diagnosis of diabetic retinopathy, reducing the need for invasive a
 Early-stage detection that enables healthcare professionals to intervene promptly, preventing vision loss or disease progression.
 Monitoring disease progression and treatment efficacy in diabetic patients, ensuring better disease management and improved quality of life.
 
----
 
-📌 Keywords
-#DiabeticRetinopathy #AIHealthcare #DeepLearning #MedicalAI #PyTorch #ResNet50 #ExplainableAI #HealthcareInnovation
----
 
 ### 🙌 **Contributors**
 #### [Thilak R](https://github.com/thilak-r) <br>
@@ -122,4 +118,8 @@ Thank you for checking out our project! We hope this inspires you to explore the
 
 <br><br>
 
+---
 
+📌 Keywords
+#DiabeticRetinopathy #AIHealthcare #DeepLearning #MedicalAI #PyTorch #ResNet50 #ExplainableAI #HealthcareInnovation
+---
